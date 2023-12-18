@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+canvas {
+    border: 15px solid rgb(223, 79, 103);
+}
+
+img{
+    display: none;
+}
